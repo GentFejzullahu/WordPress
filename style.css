@@ -1,16 +1,17 @@
 /*
-theme name:Tech Blog
-theme url:https:website.com/tech-blog
-author:Gent Fejzullahu
-author url:https:website.com/tech-blog
-description:This is a theme for learning purposes
-required at least:WordPress 5.6
-tested up to:WordPress 5.9
-requires PHP:8.0
-version:1.0
-tags:one-column,custom-menu,custom-logo,featuerd-images
+Theme Name:Tech Blog
+Theme URI:https://website.com/tech-blog
+Author:Vlere Mustafa
+Author URI:https://website.com/tech-blog
+Description:This theme is for learning purposes only
+Requires at least:5.6
+Tested up to:5.9
+Requires PHP:8.0
+Version:1.0
+Tags:one-column,custom-menu,custom-logo,featured-images
+
 */
 
 h1{
-    color:red
+    color:red;
 }
